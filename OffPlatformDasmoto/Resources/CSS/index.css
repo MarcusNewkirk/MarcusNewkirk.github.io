@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bk-image {
+    background-image: url(../Images/pattern.webp);
+    background-size: cover; 
+    
+}
+
+.Title {
+    
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki
+}
+
+.Stitle1 {
+    
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.Stitle2 {
+    
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    background-color: lightcoral;
+}
+
+.Stitle3 {
+    
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
